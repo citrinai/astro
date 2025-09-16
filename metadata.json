@@ -1,5 +1,5 @@
 {
-  "name": "AI Kundali Navigator",
-  "description": "An AI-powered astrology application that generates a personalized Kundali (birth chart) and provides insightful predictions based on your birth details. Discover what the stars have in store for you.",
+  "name": "KundaliPulse",
+  "description": "An AI-powered astrology application that generates your personalized Vedic Kundali (birth chart) and provides insightful predictions based on your birth details. Feel the pulse of the cosmos.",
   "requestFramePermissions": []
 }
